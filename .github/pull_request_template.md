@@ -2,7 +2,7 @@
   ex) feat(17): added pull request template
   (remove before creating PR)
 
-## 🔘Part
+## 🔘 part
 
 - [x] FE
 
@@ -16,8 +16,7 @@
 
 ## images
 
-<img src="addr" width="50%" height="50%"/>
-
+[![Screenshot...](https://i.postimg.cc/...)](https://postimg.cc/...)
 <br/>
 
 ## 🔧 todo

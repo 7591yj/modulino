@@ -1,11 +1,11 @@
 <p align="center">
  	<img alt="logo" src="" width="300">
  </p>
-<h1 align="center" style="margin: 30px 0 30px; font-weight: bold;">Modulino</h1>
+<h1 align="center" style="margin: 30px 0 30px; font-weight: bold;">modulino</h1>
 
 ## README.md
 
-Plug-and-play 3D printer accessories, designed for seamless performance and built with passion.
+Plug-and-play 3D printer accessories, designed for seamless performance and compatibility.
 
 ---
 
