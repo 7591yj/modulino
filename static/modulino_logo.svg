@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 793.70135 1122.52">
+  <g transform="matrix(1.3333333,0,0,-1.3333333,0,1122.52)">
+    <g transform="translate(288.2755,349.5811)">
+      <path
+        d="M 0,0 -88.86,51.313 V 153.908 L 0,102.595 Z M 8.215,219.438 97.043,168.141 87.015,162.346 8.213,116.837 -80.643,168.143 Z M 105.258,51.313 16.431,0 v 102.595 l 78.799,45.519 10.028,5.792 z m 16.431,-9.498 v 121.58 9.489 l -8.215,4.744 -105.259,60.776 -105.286,-60.776 -8.22,-4.746 V 163.397 41.815 L 0,-18.978 l 8.213,-4.743 8.218,4.745 z"
+        fill="#282828"
+        fill-opacity="1"
+        fill-rule="nonzero"
+      />
+    </g>
+    <g transform="translate(181.8159,240.9059)">
+      <path
+        d="M 0,0 110.529,-63.82 V 63.82 L 0,127.641 Z"
+        fill="#282828"
+        fill-opacity="1"
+        fill-rule="nonzero"
+      />
+    </g>
+    <g transform="translate(168.3135,664.8043)">
+      <path
+        d="M 0,0 -110.529,-63.82 0,-127.641 110.529,-63.82 Z"
+        fill="#282828"
+        fill-opacity="1"
+        fill-rule="nonzero"
+      />
+    </g>
+    <g transform="translate(52.6785,463.9828)">
+      <path
+        d="M 0,0 110.529,-63.82 V 63.82 L 0,127.641 Z"
+        fill="#282828"
+        fill-opacity="1"
+        fill-rule="nonzero"
+      />
+    </g>
+    <g transform="translate(302.9304,177.0856)">
+      <path
+        d="M 0,0 110.529,63.82 V 191.461 L 0,127.641 Z"
+        fill="#282828"
+        fill-opacity="1"
+        fill-rule="nonzero"
+      />
+    </g>
+    <g transform="translate(426.962,664.8043)">
+      <path
+        d="M 0,0 -110.529,-63.82 0,-127.641 110.529,-63.82 Z"
+        fill="#282828"
+        fill-opacity="1"
+        fill-rule="nonzero"
+      />
+    </g>
+    <g transform="translate(432.0678,527.8032)">
+      <path
+        d="M 0,0 V -127.641 L 110.529,-63.82 V 63.82 Z"
+        fill="#282828"
+        fill-opacity="1"
+        fill-rule="nonzero"
+      />
+    </g>
+  </g>
+</svg>
